@@ -1,7 +1,8 @@
 # Global-Video-Game-Sales-Performance-Dashboard-Excel
 
 ## Dashboard Preview
-<img width="1097" height="696" alt="Screenshot 2026-02-01 163906" src="https://github.com/user-attachments/assets/1b017ccb-af7d-4553-af07-836dbb6b7722" />
+<img width="1090" height="702" alt="image" src="https://github.com/user-attachments/assets/1729908a-258d-4662-b533-fca0cfd0b08f" />
+
 
 ## Dataset Description
 The dataset contains historical global video game sales data, including game titles, platforms, genres, release years, and regional sales figures for North America, Europe, Japan, and the Rest of the World. It also includes total global sales for each game, enabling analysis of market trends, platform performance, genre popularity, and regional market contributions over time.

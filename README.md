@@ -16,7 +16,9 @@ What factors drive global video game sales across platforms, genres, regions, an
 
 ## Data Cleaning & Preparation
 -Null values: 272 missing values in the Year column. The dataset contained 272 missing values in the Year column. Since the year is critical for time-series analysis, these records were removed to avoid bias in trend insights. The missing values accounted for less than 2% of the dataset, so removal did not significantly affect the overall sales analysis.
+
 -Data types: I changed the Sales and Year column to Number
+
 -Data validation: To ensure data accuracy, I validated that Global Sales equalled the sum of regional sales (NA, EU, JP, Other). Minor discrepancies were observed due to rounding; however, no material inconsistencies were found. Global_Sales was retained as the authoritative metric, and a calculated check column was used for quality assurance.
 
 
